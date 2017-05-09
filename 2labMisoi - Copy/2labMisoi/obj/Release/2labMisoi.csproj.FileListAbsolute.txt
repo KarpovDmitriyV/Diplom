@@ -7,3 +7,6 @@ D:\University\9 Сем\МиСОИ\2labMisoi - Copy\2labMisoi\obj\Release\2labMis
 D:\University\9 Сем\МиСОИ\2labMisoi - Copy\2labMisoi\obj\Release\2labMisoi.exe
 D:\University\9 Сем\МиСОИ\2labMisoi - Copy\2labMisoi\obj\Release\2labMisoi.pdb
 D:\University\9 Сем\МиСОИ\2labMisoi - Copy\2labMisoi\obj\Release\2labMisoi.csprojResolveAssemblyReference.cache
+D:\University\Diplom\2labMisoi - Copy\2labMisoi\bin\Release\2labMisoi.exe.config
+D:\University\Diplom\2labMisoi - Copy\2labMisoi\obj\Release\2labMisoi.exe
+D:\University\Diplom\2labMisoi - Copy\2labMisoi\obj\Release\2labMisoi.pdb
